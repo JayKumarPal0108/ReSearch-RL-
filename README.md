@@ -72,8 +72,8 @@ ReSearch-Project/
 ```
 
 ## 🤝 Contributors
-- [Your Name]
-- [Group Members / Collaborators]
+- [Jaykumar Pal]
+  
 
 ## 📌 License
 This project is inspired by the official ReSearch repository under MIT License.
